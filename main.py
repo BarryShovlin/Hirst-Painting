@@ -4,6 +4,7 @@ import random
 #
 # rgb_colors = []
 # colors = colorgram.extract('image.jpg', 30)
+"""uses colorgram to extract rgb values of colors in the image."""
 # for color in colors:
 #     r = color.rgb.r
 #     g = color.rgb.g
